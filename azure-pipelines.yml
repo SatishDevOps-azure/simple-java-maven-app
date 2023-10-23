@@ -19,7 +19,7 @@ variables:
   azureSubscription: 'b01f618b-6bf9-4e92-bc72-4a6515175c4c'
 
   # Agent VM image name
-  vmImageName: 'windows-latest'
+  vmImageName: 'agentselfhosted'
 
 stages:
 - stage: Build
